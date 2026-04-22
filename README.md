@@ -4,10 +4,8 @@
 
 User → Application Load Balancer → Auto Scaling Group → EC2 Instances → CloudWatch → SNS
 
-<img width="1536" height="1024" alt="4060f7ef-228d-497f-9429-23d7ec6c8c2f" src="https://github.com/user-attachments/assets/f7999222-b3e3-4419-8db7-6768a3e00537" />
-
-
 * Architecture Diagram
+<img width="1536" height="1024" alt="4060f7ef-228d-497f-9429-23d7ec6c8c2f" src="https://github.com/user-attachments/assets/f7999222-b3e3-4419-8db7-6768a3e00537" />
 
 ---
 
