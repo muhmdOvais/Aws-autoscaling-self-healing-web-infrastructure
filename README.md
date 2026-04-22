@@ -1,9 +1,3 @@
-# 📌 About
-
-This project demonstrates deployment of a highly available static web application on AWS using EC2, Nginx, Auto Scaling Groups (ASG), Application Load Balancer (ALB), CloudWatch monitoring, and SNS notifications. The project includes infrastructure provisioning, self-healing validation, monitoring configuration, troubleshooting, and cleanup practices.
-
----
-
 # README.md
 
 # AWS Auto Scaling and Self-Healing Web Infrastructure
