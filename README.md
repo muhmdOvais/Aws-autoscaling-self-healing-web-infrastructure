@@ -1,5 +1,3 @@
-# README.md
-
 # AWS Auto Scaling and Self-Healing Web Infrastructure
 
 ## Project Architecture
