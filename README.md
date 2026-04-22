@@ -1,11 +1,3 @@
-# 📌 Project Name
-
-AWS Auto Scaling and Self-Healing Web Infrastructure
-
-# 📌 Repo Name
-
-aws-autoscaling-self-healing-web-infrastructure
-
 # 📌 About
 
 This project demonstrates deployment of a highly available static web application on AWS using EC2, Nginx, Auto Scaling Groups (ASG), Application Load Balancer (ALB), CloudWatch monitoring, and SNS notifications. The project includes infrastructure provisioning, self-healing validation, monitoring configuration, troubleshooting, and cleanup practices.
