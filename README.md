@@ -243,6 +243,8 @@ In Alarm
 ---
 
 # 🧠 How the Architecture Works
+<img width="1536" height="1024" alt="4060f7ef-228d-497f-9429-23d7ec6c8c2f" src="https://github.com/user-attachments/assets/9d35fa04-49bd-44c7-998f-bcc190434241" />
+
 
 ## EC2
 
