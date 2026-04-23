@@ -44,9 +44,8 @@ Expected:
 active (running)
 ```
 
-📷 Add Screenshot Here:
-
 * Nginx Running Status
+<img width="1919" height="913" alt="Screenshot 2026-04-23 004701" src="https://github.com/user-attachments/assets/f9bb6dda-c70d-49bd-9046-a192d7d69db0" />
 
 ---
 
@@ -86,10 +85,8 @@ Access:
 ```text
 http://<public-ip>
 ```
-
-📷 Add Screenshot Here:
-
 * Website Running on EC2
+<img width="1919" height="955" alt="Screenshot 2026-04-23 005332" src="https://github.com/user-attachments/assets/631396a8-908c-4b24-ad8f-a2b522e60495" />
 
 ---
 
@@ -142,9 +139,8 @@ Maximum = 5
 
 Select two subnets for high availability.
 
-📷 Add Screenshot Here:
-
 * Auto Scaling Group Configuration
+<img width="1919" height="907" alt="Screenshot 2026-04-23 002602" src="https://github.com/user-attachments/assets/72f80ac5-f800-447a-87d7-dce258cbba89" />
 
 ---
 
@@ -168,10 +164,8 @@ Expected:
 ```text
 2 Healthy Targets
 ```
-
-📷 Add Screenshot Here:
-
 * Target Group Healthy Targets
+<img width="1919" height="910" alt="Screenshot 2026-04-23 002804" src="https://github.com/user-attachments/assets/0b50b342-c1d8-4e64-a0f0-e60649fcc416" />
 
 ---
 
@@ -185,11 +179,7 @@ Observe:
 * Replacement instance auto-created
 * Target group returns healthy
 
-📷 Add Screenshot Here:
-
-* Before Termination
-* After Replacement Instance
-
+<img width="1919" height="913" alt="Screenshot 2026-04-23 003204" src="https://github.com/user-attachments/assets/b353abc4-5214-49c8-9ce5-f1e6ed9ba496" /> 
 ---
 
 # 🚀 Phase 3 — Monitoring and Alerts
@@ -247,10 +237,8 @@ Expected State:
 ```text
 In Alarm
 ```
-
-📷 Add Screenshot Here:
-
 * CloudWatch Alarm Triggered
+<img width="1919" height="911" alt="Screenshot 2026-04-23 003342" src="https://github.com/user-attachments/assets/f0c69c3f-9504-4066-bd7d-1e995ed0ad2a" />
 
 ---
 
@@ -333,8 +321,6 @@ Result:
 2 Healthy Targets
 ```
 
-📷 Add Screenshot Here:
-
 * 0 Targets Issue
 * 2 Healthy Fixed
 
@@ -384,21 +370,6 @@ sudo chmod -R 755 /var/www/html
 sudo systemctl restart nginx
 ls /var/www/html
 ```
-
----
-
-# 📸 Suggested Screenshots for GitHub
-
-Add these:
-
-1 Architecture Diagram
-2 Nginx Running Status
-3 Website Live on EC2/ALB
-4 Auto Scaling Group Configuration
-5 Target Group Healthy Targets
-6 Self-Healing Replacement Instance
-7 CloudWatch Alarm In Alarm
-8 Issue Screenshot (0 targets) and Fix Screenshot (2 healthy)
 
 ---
 
